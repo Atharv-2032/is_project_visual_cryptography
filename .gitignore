@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Shares saved from the app during demos
+output/
+share_*.png
+stacked.png
+secret_bw.png
